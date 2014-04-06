@@ -1,0 +1,25 @@
+0.2a
+features:
+. add validators, such as equals/equalsignoreCase and regex.
+. add GridVariable Validation
+. support CSV data importing
+. support MultipileScreenCapture
+. support Image compare
+
+
+0.1c
+features:
+. add highlight feature for any TestObject
+
+
+0.1b
+features:
+. add highlight feature for any TestObject
+
+
+0.1a
+features:
+. excel report supported
+. clear useless functions
+. re-constructure the project
+. re-constructure MIME report
