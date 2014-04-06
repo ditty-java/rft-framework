@@ -1,0 +1,3 @@
+A,B,C,^[0-9]*$
+AA,BB,CC,^[0-9]*$
+AAA,BBB,CCC,ABCD1234
